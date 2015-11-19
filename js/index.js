@@ -123,7 +123,7 @@ var Row=15,
               if(guanbi){
                 var move=function(){
                    shengli.style.display='block';
-                   spa.innerHTML='恭喜您！黑棋胜利！！';
+                   spa.innerHTML='恭喜您！黑棋胜利！';
                    shengli.setAttribute('class','animated infinite pulse');
                    block=null;
                 };
